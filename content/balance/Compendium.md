@@ -40,7 +40,7 @@ sidebarContents:  |
   [7. Utility](#utility)
  
 ---
-[script](dreamgrove/content/wowhead.js)
+import 'dreamgrove/content/wowhead.js'
 
 <details>
 <summary>Changelog</summary>
