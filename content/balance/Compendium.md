@@ -329,7 +329,7 @@ Week 0 = Patch week
 <br>Sparks will be available in the following weeks: Week 0, Week 2, Week 4...
 
 - Use crests to upgrade 5 items in Week 1 and 2 up to ilvl 441. Refer to this [guide](https://i.imgur.com/4lxTN6Z.png).
-- Upgrade crests in the following order: Weapon > Chest = Legs = Head > Shoulders = Gloves = Waist > Rings > Cloak = Wrist > Neck.
+- Upgrade crests in the following order: Weapon > Chest = Legs = Head > Shoulders = Gloves > Boots = Waist > Rings > Cloak = Wrist > Neck.
 - Keep in mind that this order will heavily change depending on what you obtain from mythic+ and raid. Also, avoid upgrading tier slots until you have your 4-piece.
 
 
