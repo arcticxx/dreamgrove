@@ -378,6 +378,21 @@ On **AoE** you will want to use [Whispering Incarnate Icon](https://www.wowhead.
 
 ## [Gearing Advice](#gearing-advice)
 
+<div id="crests">
+
+## [Crests](#crests)
+
+</div>
+
+Week 0 = Patch week
+<br>Week 1 = Raid week
+<br>Week 2 = Second raid week
+<br>Sparks will be available in the following weeks: Week 0, Week 2, Week 4...
+
+- Use crests to upgrade 5 items in Week 1 and 2 up to ilvl 441. Refer to this [guide](https://i.imgur.com/4lxTN6Z.png).
+- Upgrade crests in the following order: Weapon > Chest = Legs = Head > Shoulders = Gloves > Boots = Waist > Rings > Cloak = Wrist > Neck.
+- Keep in mind that this order will heavily change depending on what you obtain from mythic+ and raid. Also, avoid upgrading tier slots until you have your 4-piece.
+
 </div>
 
 In general try to hit ilvl > mastery gear. If it has mastery it is most likely good, it does NOT need haste or anything else. For stuff that does not have mastery just sim in between dungeons.
